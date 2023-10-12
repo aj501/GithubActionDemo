@@ -12,3 +12,9 @@ def divide(a,b):
     return a/b 
 divide(6,0)
 print(divide(6,0))
+
+# Addition
+def addition(a,b):
+    return a+b
+addition(2,3)
+print(addition(2,3))
